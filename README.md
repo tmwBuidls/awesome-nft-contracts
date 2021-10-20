@@ -14,6 +14,6 @@ Right now all of this is available on Etherscan but hard to browse and save for 
 If anyone wants to do these by submitting PRs then go for it.
 
 ## How to Contribute
-Feel free to submit PRs with new contracts, try and either ensure that it is either a well known project OR is an example of doing something differently. 
+Feel free to submit PRs with new contracts, try and either ensure that it is either a well known project OR is an example of doing something differently. If you didn't know, you can find all the code on Etherscan (e.g. [here](https://etherscan.io/contractsVerified))
 
 When you submit a new contract make sure you create a new folder and also add it to the Projects list in this README.
