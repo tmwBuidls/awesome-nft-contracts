@@ -4,8 +4,9 @@ None of this is my own work, it's rather a place to collate NFT contracts from p
 Right now all of this is available on Etherscan but hard to browse and save for later. Ultimately the goal for storing it here is to make it easier for devs to learn from what has come before them.
 
 ## Projects List
-- [CoolCats](https://www.coolcatsnft.com/)
+- [Art Blocks](https://www.artblocks.io/)
 - [Bored Ape Yacht Club (BAYC)](https://boredapeyachtclub.com/)
+- [CoolCats](https://www.coolcatsnft.com/)
 - [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 - [Meebits](https://meebits.larvalabs.com/)
 
