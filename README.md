@@ -1,5 +1,5 @@
-# Popular NFT Projects Smart Contracts
-None of this is my own work, it's rather a place to collate NFT smart contracts from popular projects.
+# Popular NFT Projects Contracts
+None of this is my own work, it's rather a place to collate NFT contracts from popular projects.
 
 Right now all of this is available on Etherscan but hard to browse and save for later. Ultimately the goal for storing it here is to make it easier for devs to learn from what has come before them.
 
