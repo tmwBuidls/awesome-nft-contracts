@@ -6,6 +6,7 @@ Right now all of this is available on Etherscan but hard to browse and save for 
 ## Projects List
 - [CoolCats](https://www.coolcatsnft.com/)
 - [Bored Ape Yacht Club (BAYC)](https://boredapeyachtclub.com/)
+- [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 
 ## Possible Improvements
 - **Commentary**: I'd like to add some commentary to each contract to explain things such as on-chain or off-chain or delayed release etc. 
