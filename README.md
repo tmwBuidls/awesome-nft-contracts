@@ -3,6 +3,8 @@ None of this is my own work, it's rather a place to collate NFT contracts from p
 
 Right now all of this is available on Etherscan but hard to browse and save for later. Ultimately the goal for storing it here is to make it easier for devs to learn from what has come before them.
 
+N.B. the contracts aren't **exactly** how you would see them on Etherscan as I've trimmed some of the libraries and interfaces so the files are more readable.
+
 ## Projects List
 - [Art Blocks](https://www.artblocks.io/)
 - [Bored Ape Yacht Club (BAYC)](https://boredapeyachtclub.com/)
