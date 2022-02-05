@@ -7,11 +7,12 @@ N.B. the contracts aren't **exactly** how you would see them on Etherscan as I'v
 
 ## Projects List
 - [Art Blocks](https://www.artblocks.io/)
+- [Azuki](https://www.azuki.com/)
 - [Bored Ape Yacht Club (BAYC)](https://boredapeyachtclub.com/)
 - [CoolCats](https://www.coolcatsnft.com/)
+- [Crypto Coven](https://www.cryptocoven.xyz/)
 - [CryptoPunks](https://www.larvalabs.com/cryptopunks)
 - [Meebits](https://meebits.larvalabs.com/)
-- [Azuki](https://www.azuki.com/)
 
 
 ## Possible Improvements
